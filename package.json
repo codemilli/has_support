@@ -1,0 +1,24 @@
+{
+  "name": "has_support",
+  "version": "1.0.0",
+  "description": "파라미터의 맨 끝 글자가 받침을 가지는지를 return",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hckrmoon/has_support.git"
+  },
+  "keywords": [
+    "hangeul",
+    "korean",
+    "support"
+  ],
+  "author": "hckrmoon <hckrmoon@ncsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hckrmoon/has_support/issues"
+  },
+  "homepage": "https://github.com/hckrmoon/has_support#readme"
+}
